@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dada!
+# Hey, I’m glad you made it here 🙌
 
 I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
 I started out in **robotics**, stayed for the craft of building things that work *and* make sense.
@@ -6,7 +6,7 @@ I started out in **robotics**, stayed for the craft of building things that work
 💻 Over a decade of experience building **web applications**, **data-driven tools**, and **design systems** — mostly with **React**, **TypeScript**, and **Python**.  
 🎨 Passionate about clean architecture, intuitive interfaces, and the intersection of **technology and creativity**.  
 
-🌿 When I’m not coding, you’ll find me exploring nature, practicing pole dance, or raising two beautiful humans.  
+🌿 When I’m not coding, you’ll find me exploring nature, practicing pole dance, and raising two beautiful humans.  
 
 ---
 
