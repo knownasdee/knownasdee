@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Dada!
 
-<!--
-**knownasdee/knownasdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
+I started out in **robotics**, stayed for the craft of building things that work *and* make sense.
 
-Here are some ideas to get you started:
+💻 Over a decade of experience building **web applications**, **data-driven tools**, and **design systems** — mostly with **React**, **TypeScript**, and **Python**.  
+🎨 Passionate about clean architecture, intuitive interfaces, and the intersection of **technology and creativity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌿 When I’m not coding, you’ll find me exploring nature, practicing pole dance, or raising two beautiful humans.  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, TypeScript, Redux, HTML, CSS  
+**Backend:** Python, Node.js, REST APIs, C/C++/C#
+**Other:** UI/UX Design, Frontend Architecture, Design Systems, Prototyping, Mentoring, Agile Workflows
+
+---
+
+### ✨ What I’m Into
+- Building clean, human-centered interfaces  
+- Exploring how AI can augment creative work  
+- Collaborating on open-source or design-driven projects  
