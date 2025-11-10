@@ -1,4 +1,4 @@
-# Hey, I’m glad you made it here 🙌
+# Hi folks 👋
 
 I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
 I started out in **robotics**, stayed for the craft of building things that work *and* make sense.
