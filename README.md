@@ -1,4 +1,4 @@
-# Hi folks 👋
+# Hey there 😊
 
 I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
 I started out in **robotics**, stayed for the craft of building things that work *and* make sense.
@@ -20,4 +20,4 @@ I started out in **robotics**, stayed for the craft of building things that work
 ### ✨ What I’m Into
 - Building clean, human-centered interfaces  
 - Exploring how AI can augment creative work  
-- Collaborating on open-source or design-driven projects  
+- Collaborating on design-driven projects  
