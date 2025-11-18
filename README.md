@@ -1,10 +1,10 @@
-# Hey there 😊
+# Hey there!
 
 I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
-I started out in **robotics**, stayed for the craft of building things that work *and* make sense.
+I started out in **robotics**, but moved towards full-stack development over the years.
 
-💻 Over a decade of experience building **web applications**, **data-driven tools**, and **design systems** — mostly with **React**, **TypeScript**, and **Python**.  
-🎨 Passionate about clean architecture, intuitive interfaces, and the intersection of **technology and creativity**.  
+💻 I have over a decade of experience building **web applications**, **data-driven tools**, and **design systems** — mostly with **React**, **TypeScript**, and **Python**.  
+🎨 I'm passionate about clean architecture, intuitive interfaces, and the intersection of **technology and creativity**.  
 
 🌿 When I’m not coding, you’ll find me exploring nature, practicing pole dance, and raising two beautiful humans.  
 
@@ -19,5 +19,5 @@ I started out in **robotics**, stayed for the craft of building things that work
 
 ### ✨ What I’m Into
 - Building clean, human-centered interfaces  
-- Exploring how AI can augment creative work  
+- Exploring how AI can augment creative and meaningful work  
 - Collaborating on design-driven projects  
