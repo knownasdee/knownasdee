@@ -1,6 +1,6 @@
 # Hey there!
 
-I’m a **software developer** who loves turning complex ideas into simple, meaningful products.  
+I’m a **software engineer** and **product designer** who loves turning complex ideas into simple, meaningful products.  
 I started out in **robotics**, but moved towards full-stack development over the years.
 
 💻 I have over a decade of experience building **web applications**, **data-driven tools**, and **design systems** — mostly with **React**, **TypeScript**, and **Python**.  
