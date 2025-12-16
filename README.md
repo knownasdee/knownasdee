@@ -12,7 +12,7 @@ I started out in **robotics**, but moved towards full-stack development over the
 
 ### 🛠️ Tech Stack
 **Frontend:** React, TypeScript, Redux, MobX, HTML, CSS  
-**Backend:** Python, Node.js, REST APIs, C/C++/C#
+**Backend:** Python, Node.js, REST APIs, C/C++/C#  
 **Other:** UI/UX Design, Frontend Architecture, Design Systems, Prototyping, Mentoring, Agile Workflows
 
 ---
