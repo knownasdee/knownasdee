@@ -12,12 +12,5 @@ I started out in **robotics**, but moved towards full-stack development over the
 
 ### 🛠️ Tech Stack
 **Frontend:** React, TypeScript, Redux, MobX, HTML, CSS  
-**Backend:** Python, Node.js, REST APIs, C/C++/C#  
+**Backend:** Node.js, REST APIs, C/C++/C#, Python
 **Other:** UI/UX Design, Frontend Architecture, Design Systems, Prototyping, Mentoring, Agile Workflows
-
----
-
-### ✨ What I’m Into
-- Building clean, human-centered interfaces  
-- Exploring how AI can augment creative and meaningful work  
-- Collaborating on design-driven projects  
